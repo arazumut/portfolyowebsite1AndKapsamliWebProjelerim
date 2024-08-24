@@ -27,3 +27,11 @@
 ![Ekran görüntüsü 2024-08-24 144732](https://github.com/user-attachments/assets/f5fcd078-7fc5-4254-bdd1-9f3590d0f6b4)
 ![Ekran görüntüsü 2024-08-24 144724](https://github.com/user-attachments/assets/0b05bee2-8be8-4314-bf01-821a4453c9bf)
 ![Ekran görüntüsü 2024-08-24 144713](https://github.com/user-attachments/assets/4daae64b-4eaa-45ce-9e9b-f3ad211e03fc)
+
+<h1>Şehirler Responsive</h1>
+
+![Ekran görüntüsü 2024-08-24 144624](https://github.com/user-attachments/assets/b349108c-b97d-4786-8344-ce6e2aa953bb)
+![Ekran görüntüsü 2024-08-24 144635](https://github.com/user-attachments/assets/3eb26d15-d54a-41e2-b9bd-c622663d737b)
+![Ekran görüntüsü 2024-08-24 144644](https://github.com/user-attachments/assets/be99e30d-2b9e-4248-9efe-bd27feb71f25)
+
+
