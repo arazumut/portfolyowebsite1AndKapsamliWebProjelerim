@@ -34,4 +34,8 @@
 ![Ekran görüntüsü 2024-08-24 144635](https://github.com/user-attachments/assets/3eb26d15-d54a-41e2-b9bd-c622663d737b)
 ![Ekran görüntüsü 2024-08-24 144644](https://github.com/user-attachments/assets/be99e30d-2b9e-4248-9efe-bd27feb71f25)
 
+<h1>Sea Animations Portfolio</h1>
+
+![Ekran görüntüsü 2024-08-31 175822](https://github.com/user-attachments/assets/9cf10506-5657-429a-b1a4-728179cd4913)
+![Ekran görüntüsü 2024-08-31 175830](https://github.com/user-attachments/assets/097ae8e5-f265-44db-9760-a0aeaf6c5734)
 
